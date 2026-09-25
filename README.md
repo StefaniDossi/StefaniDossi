@@ -1,6 +1,6 @@
 ## Hi, I'm Stefani 👋
 
-### About Me:
+### About Me
 
 🩺 I work as a Clinical Affairs Manager in the medical device industry, supporting clinical evidence generation, post-market clinical follow-up, and regulatory activities.
 
