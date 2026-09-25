@@ -4,7 +4,7 @@
 
 🩺 I work as a Clinical Affairs Manager in the medical device industry, supporting clinical evidence generation, post-market clinical follow-up, and regulatory activities.
 
-🎓 I'm currently pursuing an MSc in Health Data Science at the University of Exeter, where I'm expanding my expertise in statistics, epidemiology, and data science.
+🎓 I'm currently pursuing an MSc in Health Data Science at the University of Exeter.
 
 📊 My interests lie at the intersection of clinical research, real-world evidence, and health data analytics, with a particular focus on translating data into meaningful clinical insights.
 
