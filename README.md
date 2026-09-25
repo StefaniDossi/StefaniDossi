@@ -10,7 +10,7 @@
 
 👯 I'm looking to collaborate on health data science, clinical research, real-world evidence, and open-source projects in healthcare.
 
-💬 Ask me about clinical studies, medical devices, health data science, R programming, and evidence generation.
+💬 Ask me about clinical studies, medical devices, and evidence generation.
 
 ⚡ Fun fact: By day I'm studying health data science; by winter I'm conducting a long-term observational study on whether someone who started skiing at 30 can ever look graceful on the slopes. Results remain inconclusive. 🎿📈😄
 
